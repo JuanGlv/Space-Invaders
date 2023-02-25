@@ -6,7 +6,7 @@
 body {
     font: 16px sans-serif;
     color: #fff;
-    background: #789;
+    background: rgb(37, 1, 78);
 }
 main, header, nav, contenido, footer {
     display: flex;
@@ -26,7 +26,7 @@ main {
     max-width: 100%;
     width: 96%;
     margin: 3% auto;
-    background: rgba(255, 0, 0, 0.2);
+    background: black;
 }
 
 .logo { flex: 1; font: italic 1.5 em serif; }

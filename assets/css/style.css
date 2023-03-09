@@ -54,9 +54,7 @@ h6 {
 }
 
 /*------------------------------------------
-                        SECTIONS
-          this is just top handle as a component
-          instead of give a style to each section
+                        SECCIONES
       --------------------------------------------*/
 section {
   padding: 60px 0;
@@ -93,7 +91,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-    # HEADER
+    # ENCABEZADO
     --------------------------------------------------------------*/
 .header {
   -webkit-transition: all 0.5s;
@@ -119,11 +117,11 @@ section {
 
 /*--------------------------------------------------------------
 
-      # NAVIGATION MENU
+      # MENÚ DE NAVEGACIÓN
 
       --------------------------------------------------------------*/
 
-/** DESKTOP NAVIGATION*/
+/** NAVEGACIÓN DE ESCRITORIO*/
 .navbar {
   padding: 0;
 }
@@ -182,7 +180,7 @@ section {
 
 
 /*------------------------------------------
-    # ABOUT
+    # ACERCA DE
 --------------------------------------------*/
 .about .content + .content {
   margin-top: 5px;
@@ -195,7 +193,7 @@ section {
 
 
 /*------------------------------------------
-    # FOOTER SECTION
+    # PIE DE PÁGINA
 --------------------------------------------*/
 
 .footer {
@@ -238,20 +236,20 @@ section {
 
 
 /*------------------------------------------
-                RESPONSIVENESS
+                RESPUESTA
       --------------------------------------------*/
-/** MOBILE NAVIGATION*/
+/** NAVEGACIÓN WEB*/
 @media (max-width: 500px) {}
 
 @media (max-width: 575px) {}
 
 @media (max-width: 768px) {}
 
-/** MID SCREEN AND/OR SMALL MONITORS NAVIGATION*/
+/** NAVEGACIÓN DE MEDIA PANTALLA U ORDENADORES PEQUEÑOS*/
 @media (max-width: 991px) {}
 
-/** IPADS AND TABLETS NAVIGATION*/
+/** NAVEGACIÓN DE IPADS Y TABLETS*/
 @media (min-width: 1024px) {}
 
-/** lAPTOPS NAVIGATION*/
+/** NAVEGACIÓN DE LAPTOPS*/
 @media (max-width: 1366px) {}
